@@ -1,0 +1,6 @@
+{
+  "name": "OMNIVA AI",
+  "description": "Autonomous digital growth & brand management system. Fully automated social media schedules, customer engagement, strategy, and website generation powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
